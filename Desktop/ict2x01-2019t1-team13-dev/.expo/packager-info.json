@@ -1,0 +1,9 @@
+{
+  "expoServerNgrokUrl": "https://8r-qmk.anonymous.ict2x01-2019t1-team13-dev.exp.direct",
+  "packagerNgrokUrl": "https://packager.8r-qmk.anonymous.ict2x01-2019t1-team13-dev.exp.direct",
+  "ngrokPid": 31500,
+  "packagerPort": 19001,
+  "packagerPid": 18188,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000
+}
